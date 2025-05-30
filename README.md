@@ -6,7 +6,7 @@
 - 🌱 Exploring **AI/ML, Wagtail CMS**, and **cloud-native** architectures
 - 🧠 Learning `scikit-learn`, `LangChain`, `AWS SageMaker`
 - 💬 Ask me about Python, Django, FastAPI, CI/CD, Microservices, AWS
-- 📫 Reach me at: sonukrsingh204@gmail.com
+- 📫 Connect me on LinkedIn: https://www.linkedin.com/in/sonu-kumar-singh-sks/
 
 ---
 
