@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hello, I'm Sonu Kumar Singh
 
-<!--
-**sonu-kumar-singh-04/sonu-kumar-singh-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Software Engineer with 8+ years of experience in backend development, cloud solutions, and enterprise software.
 
-Here are some ideas to get you started:
+- 🔭 Currently working at **EPAM Systems**
+- 🌱 Exploring **AI/ML, Wagtail CMS**, and **cloud-native** architectures
+- 🧠 Learning `scikit-learn`, `LangChain`, `AWS SageMaker`
+- 💬 Ask me about Python, Django, FastAPI, CI/CD, Microservices, AWS
+- 📫 Reach me at: sonukrsingh204@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-43B1B1?style=flat&logo=wagtail&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonu-Kumar-Singh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-Kumar-Singh&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sonu-Kumar-Singh&theme=gruvbox)
+
+---
+
+### 📌 Featured Projects
+
+- [🧠 AI-ML Survey Analyzer](#) — FastAPI + Pandas-based survey analytics tool.
+- [🌐 CMS with Wagtail](#) — Dynamic content platform built using Django & Wagtail.
+- [🚀 Microservices App on AWS](#) — Scalable app deployed with Docker + CodeDeploy.
+
+---
+
+### ✍️ Blog & Content
+
+Stay tuned for upcoming posts on **Wagtail**, **AWS Projects**, and **AI-integration with FastAPI**.
