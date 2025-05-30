@@ -23,19 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonu-Kumar-Singh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-Kumar-Singh&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sonu-Kumar-Singh&theme=gruvbox)
-
----
-
 ### 📌 Featured Projects
 
 - [🧠 AI-ML Survey Analyzer](#) — FastAPI + Pandas-based survey analytics tool.
