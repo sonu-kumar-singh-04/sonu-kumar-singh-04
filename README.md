@@ -3,7 +3,7 @@
 🚀 Senior Software Engineer with 8+ years of experience in backend development, cloud solutions, and enterprise software.
 
 - 🔭 Currently working at **EPAM Systems**
-- 🌱 Exploring **AI/ML, Wagtail CMS**, and **cloud-native** architectures
+- 🌱 Exploring **AI/ML, Wagtail CMS**, and **cloud-native** architectures [VIEW PROJECTS](https://github.com/sonu-kumar-singh-04/genai-ml-portfolio)
 - 🧠 Learning `scikit-learn`, `LangChain`, `AWS SageMaker`
 - 💬 Ask me about Python, Django, FastAPI, CI/CD, Microservices, AWS
 - 📫 Connect me on LinkedIn: https://www.linkedin.com/in/sonu-kumar-singh-sks/
@@ -25,9 +25,9 @@
 
 ### 📌 Featured Projects
 
-- [🧠 AI-ML Survey Analyzer](#) — FastAPI + Pandas-based survey analytics tool.
-- [🌐 CMS with Wagtail](#) — Dynamic content platform built using Django & Wagtail.
-- [🚀 Microservices App on AWS](#) — Scalable app deployed with Docker + CodeDeploy.
+- | **Titanic GenAI Predictor** | Predicts Titanic survival + explains it using GenAI | [View Repo](https://github.com/sonu-kumar-singh-04/titanic-genai-app) |
+- | **Spam Detector API** | FastAPI app to classify messages as spam or ham | [View Repo](https://github.com/sonu-kumar-singh-04/titanic-genai-app) |
+- | **LinkedIn Auto Commenter** | Auto comments on linked posts | [View Repo](https://github.com/sonu-kumar-singh-04/linkedin-auto-commenter) |
 
 ---
 
